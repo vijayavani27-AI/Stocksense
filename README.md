@@ -356,8 +356,8 @@ The StockSense engines have their own unit tests: `forecast.test.ts`, `budget.te
 
 | Role | Name |
 |---|---|
-| 👑 **Team Leader** | **Prathip M** |
-| 👩‍💻 Member | Sujitha S |
+| 👑 **Team Leader** | **Sujitha S** |
+| 👩‍💻 Member | Prathip M |
 | 👩‍💻 Member | Vijayavani K |
 | 👨‍💻 Member | Abishek A S |
 
